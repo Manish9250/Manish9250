@@ -4,6 +4,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Manish9250](https://github.com/Manish9250)
 - 💬 Ask me about **ML-models, Python, Web Development**
 - 📫 How to reach me **manishkumar9871103077@gmail.com**
+- 💻 [My coding journey](https://github.com/Manish9250/coding_journey/blob/main/README.md)
 
 
 ## 🌐 Socials:
